@@ -15,7 +15,7 @@ namespace ControleDeContatos.Repositorio
 
         ContatoModel Atualizar(ContatoModel contato);
 
-        
+        bool Apagar(int id);
 
 
     }
